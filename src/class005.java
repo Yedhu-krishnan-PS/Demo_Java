@@ -1,6 +1,6 @@
 public class class005 {
     public static void main(String[] args) {
-        int[] numbers = {1, 2, 3, 4, 5, 6};
+        int[] numbers = {1, 2, 3, 4, 5,};
 
         // Fetching individual numbers
         System.out.println(numbers[0]);  // Output: 1

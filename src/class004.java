@@ -1,12 +1,12 @@
 public class class004 {
     public static void main(String[] args) {
 /*Prepare a small calculator, which supports +, - , , / and %(?) - Modulus operator
-double x = 15;
+double x = 18;
 double y = 12;
 Print - a+b, a-b, ab, a/b, a%b all the outputs.
 
          */
-        double x = 15;
+        double x = 18;
         double y = 12;
 
 
