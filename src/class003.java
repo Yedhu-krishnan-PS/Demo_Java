@@ -1,5 +1,9 @@
 public class class003 {
     public static void main(String[] args) {
-        System.out.println( "Hi");
+        var name = "Yedhu";
+ double z = 007;
+
+        System.out.println(name);
+        System.out.println(z);
     }
 }
