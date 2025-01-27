@@ -1,10 +1,10 @@
 public class class005 {
     public static void main(String[] args) {
-        int[] numbers = {1, 2, 3, 4, 5};
+        int[] numbers = {1, 2, 3, 4, 5, 6};
 
         // Fetching individual numbers
         System.out.println(numbers[0]);  // Output: 1
-        System.out.println(numbers[4]);  // Output: 5
+        System.out.println(numbers[5]);  // Output: 5
 
         // Fetching multiple numbers
         int firstAndLast = numbers[0] + numbers[numbers.length - 1];
