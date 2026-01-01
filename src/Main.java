@@ -6,7 +6,7 @@ public class Main {
         class001 abc = new class001();
         System.out.println("Hello, World!");
 
-        String a = abc.main("qwert");
+        String a = abc.main("JAVA");
         System.out.println(a);
         System.out.println(class001.test("123"));
     }
