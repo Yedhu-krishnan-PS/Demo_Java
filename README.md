@@ -1,1 +1,2 @@
 Change contents
+New Change
