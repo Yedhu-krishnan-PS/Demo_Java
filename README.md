@@ -4,5 +4,3 @@ New Changes
  <br> 
 restart
 
-hg
-
